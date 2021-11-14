@@ -1,0 +1,125 @@
+ *{
+     margin: 0px ;
+     padding: 0px;
+     box-sizing: border-box;
+
+ }
+ 
+ 
+ 
+ 
+ header{
+     nav{
+         .cinemaplus{
+             display: flex;
+             
+             .logo{
+                width: 1085px;
+                height: 139px;
+                background-color: #343e9e;
+                display: flex;
+                justify-content: flex-end;
+                
+
+             }
+             
+         }
+
+     }
+
+ }
+
+ header{
+     nav{
+         .container{
+             .row{
+                 .header-top{ 
+                     
+                     
+                     .col-lg-10{
+                         .top-link{
+                             
+                             a{
+                                 margin-left: 50px;
+                                 color: black;
+                                 text-decoration: none;
+                                 font-size: 18px;
+                                 i{
+                                     color: blue;
+                                 }
+                             }
+                         }
+                        
+                     }
+                 }
+             }
+
+         }
+
+     }
+ }
+ header{
+    nav{
+        .container{
+            .row{
+                .header-top{ 
+                    .col-lg-10{
+                       
+                       
+                        .lang{
+                            margin-left: 30px;
+                            a
+                            {
+                                margin-left: 20px;
+                            }
+                        }
+                    }
+                }
+            }
+
+        }
+
+    }
+}
+ 
+header{
+    nav{
+        .container{
+            .row{
+                .header-bottom{ 
+                    background-color: #00acec;
+                    .col-lg-7{
+                       .nav-link{
+                           line-height: 10px;
+                           span{
+                               font-size: 13px;
+                               margin-left: 55px;
+                               
+                           }
+                         
+                           a{
+                               margin-left: 55px;
+                               text-decoration: none;
+                               color:white;
+                               font-size: 20px;
+                               
+                           }
+                       }
+                    }
+                }
+            }
+
+        }
+
+    }
+}
+
+.phone{
+    color: white;
+    font-size: 18px;
+}
+ 
+ 
+ 
+   
+
